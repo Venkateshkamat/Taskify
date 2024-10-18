@@ -1,4 +1,4 @@
-# Tasify
+# Taskify
 
 Todo List Application using TypeScript and Reactjs
 
